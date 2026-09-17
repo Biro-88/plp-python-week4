@@ -6,6 +6,7 @@ Files
 welcome.py — Contains a welcome() function that returns a greeting and is called three times with different names.
 toolbox.py — Contains three functions: double(), is_pass(), and greet(), with test calls and their expected output.
 Hardest Function
+screenshot.png - This a screenshot showing the code and output.
 
 The greet() function was the hardest to write because it uses a default parameter for the greeting while also allowing a different greeting to be provided.
 Understanding how the default value "Hello" works helped me understand how optional parameters work in Python.
